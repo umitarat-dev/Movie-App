@@ -144,10 +144,10 @@ src/
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Umit8098/React-Project-Firebase-Movie-App.git
+$ git clone https://github.com/umitarat-dev/Movie-App.git
 
 # Navigate into the project folder
-$ cd React-Project-Firebase-Movie-App
+$ cd Movie-App
 
 # Install dependencies
 yarn  
