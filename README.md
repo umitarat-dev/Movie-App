@@ -15,10 +15,10 @@ Discover movies with TMDB API, protected routes, and Firebase authentication.
 <div align="center">
   <h3>
     <a href="https://firebase-movie-app-umitdev.netlify.app/">
-      🖥️ Demo
+      🖥️ Live Demo
     </a>
      | 
-    <a href="https://github.com/Umit8098/React-Project-Firebase-Movie-App.git">
+    <a href="https://github.com/umitarat-dev/Movie-App.git">
       📂 Repository
     </a>
   </h3>
@@ -38,7 +38,7 @@ Discover movies with TMDB API, protected routes, and Firebase authentication.
 - [⚡ How To Use](#-how-to-use)
 - [📌 About This Project](#-about-this-project)
 - [🙏 Acknowledgements](#-acknowledgements)
-- [📬 Contact](#-contact)
+- [📬 Contact Information](#-contact-information)
 
 
 ## ✨ Overview
@@ -185,10 +185,10 @@ gibi konuları pratik etmek için güzel bir örnek uygulamadır.
 - [🌐 Netlify Docs](https://www.netlify.com/)
 
 
-## 📬 Contact
+## 📬 Contact Information
 
-<!-- - Website [your-website.com](https://{your-web-site-link}) -->
-- GitHub [@Umit8098](https://github.com/Umit8098)
+I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
-- Linkedin [@umit-arat](https://linkedin.com/in/umit-arat/)
-<!-- - Twitter [@your-twitter](https://{twitter.com/your-username}) -->
+* **LinkedIn:** [linkedin.com/in/umit-arat](https://www.linkedin.com/in/umit-arat/)
+* **Email:** [umitarat8098@gmail.com](mailto:umitarat8098@gmail.com)
+* **GitHub:** [github.com/umitarat-dev](https://github.com/umitarat-dev) (Current Workspace)
