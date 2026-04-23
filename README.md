@@ -14,7 +14,7 @@ Discover movies with TMDB API, protected routes, and Firebase authentication.
 
 <div align="center">
   <h3>
-    <a href="https://firebase-movie-app-umitdev.netlify.app/">
+    <a href="https://movie-app-umitdev.netlify.app/">
       🖥️ Live Demo
     </a>
      | 
@@ -25,7 +25,9 @@ Discover movies with TMDB API, protected routes, and Firebase authentication.
 </div>
 
 <p align="center">
-  <img src="assets/movie-app.gif" alt="React Movie App" width="800"/>
+  <a href="https://movie-app-umitdev.netlify.app/">
+    <img src="assets/movie-app.gif" alt="React Movie App" width="800"/>
+  </a>
 </p>
 
 ## 📚 Navigation
