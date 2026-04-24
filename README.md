@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/API-TMDB-orange" />
 </p>
 
-<h1 align="center">📌 React Firebase Movie App</h1>
+<h1 align="center">📌 Movie App Firebase Auth</h1>
 
 <p align="center">
 Discover movies with TMDB API, protected routes, and Firebase authentication.
