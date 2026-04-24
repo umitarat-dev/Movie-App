@@ -26,7 +26,7 @@ Discover movies with TMDB API, protected routes, and Firebase authentication.
 
 <p align="center">
   <a href="https://movie-app-umitdev.netlify.app/">
-    <img src="assets/movie-app.gif" alt="React Movie App" width="800"/>
+    <img src="assets/movie-app.gif" alt="React Movie App" width="700"/>
   </a>
 </p>
 
